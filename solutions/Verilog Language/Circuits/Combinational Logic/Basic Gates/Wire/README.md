@@ -67,11 +67,11 @@ A <i>continuous</i> assignment assigns the right side to the left side <i>contin
 </div>
 <!-- 
 NewPP limit report
-Cached time: 20260815224211
+Cached time: 20260815224844
 Cache expiry: 0
 Reduced expiry: true
 Complications: []
-CPU time usage: 0.027 seconds
+CPU time usage: 0.028 seconds
 Real time usage: 0.031 seconds
 Preprocessor visited node count: 237/1000000
 Post‐expand include size: 6945/2097152 bytes
@@ -83,14 +83,14 @@ Unstrip post‐expand size: 11773/5000000 bytes
 -->
 <!--
 Transclusion expansion time report (%,ms,calls,template)
-100.00%    6.965      1 -total
- 52.65%    3.667      1 Template:ProblemFooter
- 42.17%    2.937      1 Template:NextPrevListBox
- 23.33%    1.625      1 Template:ProblemHeader
- 18.80%    1.309      2 Template:NextPrevBox
-  9.55%    0.665      1 Template:SubmitBox
-  7.65%    0.533      1 Template:PortlistBox
-  4.06%    0.283      1 Template:HintBox
+100.00%    6.360      1 -total
+ 48.02%    3.054      1 Template:ProblemFooter
+ 37.15%    2.363      1 Template:NextPrevListBox
+ 22.33%    1.420      1 Template:ProblemHeader
+ 16.02%    1.019      2 Template:NextPrevBox
+ 11.16%    0.710      1 Template:SubmitBox
+ 10.05%    0.639      1 Template:PortlistBox
+  5.17%    0.329      1 Template:HintBox
 -->
 </div>
 
