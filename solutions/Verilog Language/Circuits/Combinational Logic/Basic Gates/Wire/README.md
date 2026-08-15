@@ -15,18 +15,46 @@
 <p><br>
 In addition to continuous assignments, Verilog has three other assignment types that are used in procedural blocks, two of which are synthesizable. We won't be using them until we start using procedural blocks.
 </p>
-<i></i><p style="margin-top:1.4em;"><i><b>Expected solution length:</b> Around 1 line.</i></p><div id="portlistouterbox" class="hb-box"><h3>Module Declaration</h3>
-<pre id="portlistbox">module top_module( input in, output out );</pre>
-<pre style="display:none;"></pre></div>
-<div class="hb-box" id="hintbox">
-<div style="border: 0; display: none; margin-top: 1ex;">
-
-A <i>continuous</i> assignment assigns the right side to the left side <i>continuously</i>, so any change to the RHS is immediately seen in the LHS.</div></div>
+<i></i>
 
 
 
 
 
+
+
+
+
+
+
+
+<!-- 
+NewPP limit report
+Cached time: 20260815230655
+Cache expiry: 0
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.027 seconds
+Real time usage: 0.030 seconds
+Preprocessor visited node count: 237/1000000
+Post‐expand include size: 6945/2097152 bytes
+Template argument size: 334/2097152 bytes
+Highest expansion depth: 7/100
+Expensive parser function count: 0/100
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 11773/5000000 bytes
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%    6.326      1 -total
+ 49.79%    3.150      1 Template:ProblemFooter
+ 39.60%    2.505      1 Template:NextPrevListBox
+ 22.81%    1.443      1 Template:ProblemHeader
+ 17.22%    1.089      2 Template:NextPrevBox
+ 10.02%    0.634      1 Template:SubmitBox
+  9.74%    0.616      1 Template:PortlistBox
+  4.59%    0.290      1 Template:HintBox
+-->
 </div>
 
 ---
