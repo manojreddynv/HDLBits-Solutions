@@ -120,10 +120,6 @@ Transclusion expansion time report (%,ms,calls,template)
 -->
 </div>
 
-## Waveform
-
-![HDLBits Waveform](Wire.svg)
-
 ---
 
 **Source:** [HDLBits](https://hdlbits.01xz.net/wiki/Wire)
